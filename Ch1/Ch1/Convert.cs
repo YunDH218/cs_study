@@ -25,8 +25,8 @@
 //            // 두 변수에 값이 있을 때 형 변환하여 더한 후 정수 변수 add에 저장 후 10진수로 출력하는 소스를 완성하시오.
 //            string s = "123";
 //            float f = 321;
-//            int add1 = int.Parse(s) + (int)f;
-//            int add2 = int.Parse(f.ToString() + t2);
+//            int add1 = int.Parse(s) + (int)f;   // 정수로 변환 후 덧셈
+//            int add2 = int.Parse(f.ToString() + t2);    // 문자열로 변환 후 연결
 //            Console.WriteLine(add1);
 //            Console.WriteLine(add2);
 //        }

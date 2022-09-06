@@ -16,7 +16,7 @@
 //            Console.WriteLine("{0}  {1}", "KBS", "SBS");
 //            Console.WriteLine("{1}  {0}", "KBS", "SBS");
 //            Console.WriteLine("{0} + {1} = {2}", a, b, a + b);
-//            Console.WriteLine(a + " + " + b + " = " + (a + b));
+//            Console.WriteLine(a + " + " + b + " = " + (a + b)); // 결과는 같지만 가독성이 낮음
 //        }
 //    }
 //}
