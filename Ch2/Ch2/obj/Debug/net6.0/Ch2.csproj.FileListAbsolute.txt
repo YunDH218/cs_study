@@ -1,0 +1,15 @@
+C:\Users\sclab\Documents\GitHub\cs_study\Ch2\Ch2\bin\Debug\net6.0\Ch2.exe
+C:\Users\sclab\Documents\GitHub\cs_study\Ch2\Ch2\bin\Debug\net6.0\Ch2.deps.json
+C:\Users\sclab\Documents\GitHub\cs_study\Ch2\Ch2\bin\Debug\net6.0\Ch2.runtimeconfig.json
+C:\Users\sclab\Documents\GitHub\cs_study\Ch2\Ch2\bin\Debug\net6.0\Ch2.dll
+C:\Users\sclab\Documents\GitHub\cs_study\Ch2\Ch2\bin\Debug\net6.0\Ch2.pdb
+C:\Users\sclab\Documents\GitHub\cs_study\Ch2\Ch2\obj\Debug\net6.0\Ch2.csproj.AssemblyReference.cache
+C:\Users\sclab\Documents\GitHub\cs_study\Ch2\Ch2\obj\Debug\net6.0\Ch2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sclab\Documents\GitHub\cs_study\Ch2\Ch2\obj\Debug\net6.0\Ch2.AssemblyInfoInputs.cache
+C:\Users\sclab\Documents\GitHub\cs_study\Ch2\Ch2\obj\Debug\net6.0\Ch2.AssemblyInfo.cs
+C:\Users\sclab\Documents\GitHub\cs_study\Ch2\Ch2\obj\Debug\net6.0\Ch2.csproj.CoreCompileInputs.cache
+C:\Users\sclab\Documents\GitHub\cs_study\Ch2\Ch2\obj\Debug\net6.0\Ch2.dll
+C:\Users\sclab\Documents\GitHub\cs_study\Ch2\Ch2\obj\Debug\net6.0\refint\Ch2.dll
+C:\Users\sclab\Documents\GitHub\cs_study\Ch2\Ch2\obj\Debug\net6.0\Ch2.pdb
+C:\Users\sclab\Documents\GitHub\cs_study\Ch2\Ch2\obj\Debug\net6.0\Ch2.genruntimeconfig.cache
+C:\Users\sclab\Documents\GitHub\cs_study\Ch2\Ch2\obj\Debug\net6.0\ref\Ch2.dll

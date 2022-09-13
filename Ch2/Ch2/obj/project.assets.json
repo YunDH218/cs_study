@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sclab\\Documents\\GitHub\\cs_study\\Ch1\\Ch1\\Ch1.csproj",
-      "projectName": "Ch1",
-      "projectPath": "C:\\Users\\sclab\\Documents\\GitHub\\cs_study\\Ch1\\Ch1\\Ch1.csproj",
+      "projectUniqueName": "C:\\Users\\sclab\\Documents\\GitHub\\cs_study\\Ch2\\Ch2\\Ch2.csproj",
+      "projectName": "Ch2",
+      "projectPath": "C:\\Users\\sclab\\Documents\\GitHub\\cs_study\\Ch2\\Ch2\\Ch2.csproj",
       "packagesPath": "C:\\Users\\sclab\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sclab\\Documents\\GitHub\\cs_study\\Ch1\\Ch1\\obj\\",
+      "outputPath": "C:\\Users\\sclab\\Documents\\GitHub\\cs_study\\Ch2\\Ch2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sclab\\AppData\\Roaming\\NuGet\\NuGet.Config",
