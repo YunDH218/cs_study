@@ -1,0 +1,16 @@
+C:\Users\sclab\Documents\GitHub\cs_study\Ch3\Ch3\bin\Debug\net5.0\Ch3.exe
+C:\Users\sclab\Documents\GitHub\cs_study\Ch3\Ch3\bin\Debug\net5.0\Ch3.deps.json
+C:\Users\sclab\Documents\GitHub\cs_study\Ch3\Ch3\bin\Debug\net5.0\Ch3.runtimeconfig.json
+C:\Users\sclab\Documents\GitHub\cs_study\Ch3\Ch3\bin\Debug\net5.0\Ch3.runtimeconfig.dev.json
+C:\Users\sclab\Documents\GitHub\cs_study\Ch3\Ch3\bin\Debug\net5.0\Ch3.dll
+C:\Users\sclab\Documents\GitHub\cs_study\Ch3\Ch3\bin\Debug\net5.0\ref\Ch3.dll
+C:\Users\sclab\Documents\GitHub\cs_study\Ch3\Ch3\bin\Debug\net5.0\Ch3.pdb
+C:\Users\sclab\Documents\GitHub\cs_study\Ch3\Ch3\obj\Debug\net5.0\Ch3.csproj.AssemblyReference.cache
+C:\Users\sclab\Documents\GitHub\cs_study\Ch3\Ch3\obj\Debug\net5.0\Ch3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sclab\Documents\GitHub\cs_study\Ch3\Ch3\obj\Debug\net5.0\Ch3.AssemblyInfoInputs.cache
+C:\Users\sclab\Documents\GitHub\cs_study\Ch3\Ch3\obj\Debug\net5.0\Ch3.AssemblyInfo.cs
+C:\Users\sclab\Documents\GitHub\cs_study\Ch3\Ch3\obj\Debug\net5.0\Ch3.csproj.CoreCompileInputs.cache
+C:\Users\sclab\Documents\GitHub\cs_study\Ch3\Ch3\obj\Debug\net5.0\Ch3.dll
+C:\Users\sclab\Documents\GitHub\cs_study\Ch3\Ch3\obj\Debug\net5.0\ref\Ch3.dll
+C:\Users\sclab\Documents\GitHub\cs_study\Ch3\Ch3\obj\Debug\net5.0\Ch3.pdb
+C:\Users\sclab\Documents\GitHub\cs_study\Ch3\Ch3\obj\Debug\net5.0\Ch3.genruntimeconfig.cache

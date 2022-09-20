@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\sclab\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\sclab\\.nuget\\packages"
+    ]
+  }
+}

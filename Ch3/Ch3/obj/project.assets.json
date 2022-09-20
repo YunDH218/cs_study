@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net5.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net5.0": []
   },
   "packageFolders": {
     "C:\\Users\\sclab\\.nuget\\packages\\": {}
@@ -13,26 +13,26 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sclab\\Documents\\GitHub\\cs_study\\Ch2\\Ch2\\Ch2.csproj",
-      "projectName": "Ch2",
-      "projectPath": "C:\\Users\\sclab\\Documents\\GitHub\\cs_study\\Ch2\\Ch2\\Ch2.csproj",
+      "projectUniqueName": "C:\\Users\\sclab\\Documents\\GitHub\\cs_study\\Ch3\\Ch3\\Ch3.csproj",
+      "projectName": "Ch3",
+      "projectPath": "C:\\Users\\sclab\\Documents\\GitHub\\cs_study\\Ch3\\Ch3\\Ch3.csproj",
       "packagesPath": "C:\\Users\\sclab\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sclab\\Documents\\GitHub\\cs_study\\Ch2\\Ch2\\obj\\",
+      "outputPath": "C:\\Users\\sclab\\Documents\\GitHub\\cs_study\\Ch3\\Ch3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sclab\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net6.0"
+        "net5.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "projectReferences": {}
         }
       },
@@ -43,8 +43,8 @@
       }
     },
     "frameworks": {
-      "net6.0": {
-        "targetAlias": "net6.0",
+      "net5.0": {
+        "targetAlias": "net5.0",
         "imports": [
           "net461",
           "net462",
@@ -55,6 +55,29 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.17, 5.0.17]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
       }
     }
